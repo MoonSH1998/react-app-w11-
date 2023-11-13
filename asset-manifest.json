@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-app-w11/static/css/main.da875208.css",
-    "main.js": "/react-app-w11/static/js/main.4e264b76.js",
-    "static/media/img3.png": "/react-app-w11/static/media/img3.c89d5715bfbf20d27d64.png",
-    "static/media/img2.png": "/react-app-w11/static/media/img2.5ed0b7795b399ef6e839.png",
-    "static/media/img4.png": "/react-app-w11/static/media/img4.cbb0dbbc3826d1acfa1b.png",
-    "index.html": "/react-app-w11/index.html",
-    "main.da875208.css.map": "/react-app-w11/static/css/main.da875208.css.map",
-    "main.4e264b76.js.map": "/react-app-w11/static/js/main.4e264b76.js.map"
+    "main.css": "/react-app-w11-/static/css/main.e689506a.css",
+    "main.js": "/react-app-w11-/static/js/main.5b39ae01.js",
+    "static/media/img3.png": "/react-app-w11-/static/media/img3.c89d5715bfbf20d27d64.png",
+    "static/media/img2.png": "/react-app-w11-/static/media/img2.5ed0b7795b399ef6e839.png",
+    "static/media/img4.png": "/react-app-w11-/static/media/img4.cbb0dbbc3826d1acfa1b.png",
+    "index.html": "/react-app-w11-/index.html",
+    "main.e689506a.css.map": "/react-app-w11-/static/css/main.e689506a.css.map",
+    "main.5b39ae01.js.map": "/react-app-w11-/static/js/main.5b39ae01.js.map"
   },
   "entrypoints": [
-    "static/css/main.da875208.css",
-    "static/js/main.4e264b76.js"
+    "static/css/main.e689506a.css",
+    "static/js/main.5b39ae01.js"
   ]
 }
